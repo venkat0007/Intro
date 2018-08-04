@@ -36,3 +36,4 @@ DevOps = Devlopment Operations
 	
 	etc	
 
+http://image.slidesharecdn.com/softwaredevelopmentlifecyclesdlc-121109120805-phpapp02/95/software-development-life-cycle-sdlc-4-638.jpg?cb=1352463030
